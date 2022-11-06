@@ -5,7 +5,7 @@ There are quantitative and qualitatve indicators.
 
 **Quantitative metrics**: Total clientes, Total productos, Numero de facturaciones, Ventas ,Total impagos
 
-**Qualitative metrics **: Facturación según familia de productos, 
+**Qualitative metrics**: Facturación según familia de productos, 
 evolución anual de la facturación, ventas según tipo de producto, 
 FAMILIAS_TOP, Frecuencia de venta de productos según zona de residencia, 
 Distribución según rangos de Edad y Género, ciudad de residencia
