@@ -1,6 +1,6 @@
 # Qlick-view-Visualitzation
 
-There is a dashboard with the main metrics wich are considered for a right management, control and planification about sales and billing of one store.
+There is a dashboard with the main metrics wich are considered for a right management, control and planification about sales and billing of a store.
 There are quantitative and qualitatve indicators. 
 
 **Quantitative metrics**: Total clientes, Total productos, Numero de facturaciones, Ventas ,Total impagos
